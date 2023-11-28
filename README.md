@@ -18,4 +18,4 @@ Different tasks/subjects are in different Jupyter notebooks, and each notebook h
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Distributed under the MIT License. See LICENSE.txt for more information.
